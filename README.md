@@ -11,7 +11,7 @@
 
 ### Estruturas de Dados:
 
-###Listas: Criação, métodos e fatiamento (slicing).
+### Listas: Criação, métodos e fatiamento (slicing).
 
 ### Dicionários: Estruturas chave-valor para armazenamento de dados.
 
