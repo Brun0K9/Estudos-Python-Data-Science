@@ -36,8 +36,8 @@
 
 # Bash
 
-# git clone https://github.com/Brun0K9/Estudos-Python-Data-Science.git
-# Abra o arquivo .ipynb no Google Colab ou em seu ambiente local com Jupyter Notebook/VS Code.
+## git clone https://github.com/Brun0K9/Estudos-Python-Data-Science.git
+## Abra o arquivo .ipynb no Google Colab ou em seu ambiente local com Jupyter Notebook/VS Code.
 
 # 📬 Contato
-# Caso queira trocar uma ideia sobre Python e Data Science, sinta-se à vontade para me chamar!
+## Caso queira trocar uma ideia sobre Python e Data Science, sinta-se à vontade para me chamar!
